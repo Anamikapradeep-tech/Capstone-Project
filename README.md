@@ -1,5 +1,4 @@
-<img width="50" height="30" alt="OIP" src="https://github.com/user-attachments/assets/09886ee6-412d-4730-9fcc-72b2bc1f134b" />
-# Indian Import Trend Analysis
+ <img width="1000" height="300" alt="OIP" src="https://github.com/user-attachments/assets/09886ee6-412d-4730-9fcc-72b2bc1f134b" /> <h1 align="center"> Indian Import Trend Analysis</h1>
 
 ## Project Overview
 
